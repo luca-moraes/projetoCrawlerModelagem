@@ -17,7 +17,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Diagrama de Csao de Uso",
+					"name": "Diagrama de Caso de Uso",
 					"ownedViews": [
 						{
 							"_type": "UMLActorView",
@@ -1748,9 +1748,9 @@
 														"$ref": "AAAAAAGICBPy+QAaw28="
 													},
 													"font": "Arial;13;0",
-													"left": 72.72998046875,
+													"left": 70.55908203125,
 													"top": 21,
-													"width": 248.15234375,
+													"width": 220.8447265625,
 													"height": 13,
 													"text": "Diagrama de Sequência Buscar Conteúdo "
 												},
@@ -1763,7 +1763,7 @@
 													"font": "Arial;13;1",
 													"left": 53,
 													"top": 21,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -4160,9 +4160,9 @@
 														"$ref": "AAAAAAGICEPsb55rUvw="
 													},
 													"font": "Arial;13;0",
-													"left": 1167.9599609375,
+													"left": 1164.3291015625,
 													"top": 149,
-													"width": 143.7333984375,
+													"width": 134.67529296875,
 													"height": 13,
 													"text": "if(conteudo != duplicado)"
 												},
@@ -4175,7 +4175,7 @@
 													"font": "Arial;13;1",
 													"left": 1141,
 													"top": 149,
-													"width": 21.9599609375,
+													"width": 18.3291015625,
 													"height": 13,
 													"text": "seq"
 												},
@@ -4240,7 +4240,7 @@
 																	"font": "Arial;13;0",
 																	"left": 1156,
 																	"top": 1544,
-																	"width": 31.07177734375,
+																	"width": 28.869140625,
 																	"height": 13,
 																	"text": "[else]"
 																}
@@ -6938,9 +6938,9 @@
 														"$ref": "AAAAAAGICBrs7wSRvqs="
 													},
 													"font": "Arial;13;0",
-													"left": 32.72998046875,
+													"left": 30.55908203125,
 													"top": 13,
-													"width": 215.60791015625,
+													"width": 193.04833984375,
 													"height": 13,
 													"text": "Diagrama de Sequência Buscar DNS"
 												},
@@ -6953,7 +6953,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -7045,9 +7045,9 @@
 														"$ref": "AAAAAAGICBo0JwPh2D8="
 													},
 													"font": "Arial;13;0",
-													"left": 48.72998046875,
+													"left": 46.55908203125,
 													"top": 13,
-													"width": 253.9287109375,
+													"width": 228.7919921875,
 													"height": 13,
 													"text": "Diagrama de Sequência  Solicitar Conteúdo"
 												},
@@ -7060,7 +7060,7 @@
 													"font": "Arial;13;1",
 													"left": 29,
 													"top": 13,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -7892,9 +7892,9 @@
 														"$ref": "AAAAAAGIK+0eNPzCyFc="
 													},
 													"font": "Arial;13;0",
-													"left": 375.9599609375,
+													"left": 372.3291015625,
 													"top": 93,
-													"width": 123.1162109375,
+													"width": 111.4873046875,
 													"height": 13,
 													"text": "CombinedFragment1"
 												},
@@ -7907,7 +7907,7 @@
 													"font": "Arial;13;1",
 													"left": 349,
 													"top": 93,
-													"width": 21.9599609375,
+													"width": 18.3291015625,
 													"height": 13,
 													"text": "seq"
 												},
@@ -7940,7 +7940,7 @@
 																	"font": "Arial;13;0",
 																	"left": 364,
 																	"top": 126,
-																	"width": 211.00244140625,
+																	"width": 192.384765625,
 																	"height": 13,
 																	"text": "[if (cache não contém o documento)]"
 																}
@@ -7973,7 +7973,7 @@
 																	"font": "Arial;13;0",
 																	"left": 364,
 																	"top": 560,
-																	"width": 31.07177734375,
+																	"width": 28.869140625,
 																	"height": 13,
 																	"text": "[else]"
 																}
@@ -29236,5 +29236,6 @@
 				}
 			]
 		}
-	]
+	],
+	"documentation": "Membros:\nLucas Moraes - RA: 22.220.004-0\nVinicius Moura Rodrigues - RA: 22.120.057-9\nIan Rocha - RA: 22.119.051-5\nLucas Gomes Trevizoli - RA: 22.120.059-5\nGabriel Pasquarelli - RA: 22.220.011-5\nLucas Kraus - RA: 22.120.061-1"
 }
