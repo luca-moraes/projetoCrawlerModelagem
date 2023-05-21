@@ -17,3 +17,17 @@ Link para o Github Pages do repositório: [https://luca-moraes.github.io/projeto
 ### Visualização prévia do diagrama de casos de uso:
 
 ![Diagrama de caso de uso](https://github.com/luca-moraes/projetoCrawlerModelagem/blob/main/images/useCases.png)
+
+### Visualização prévia do diagrama de classes:
+
+![Diagrama de caso de uso](https://github.com/luca-moraes/projetoCrawlerModelagem/blob/main/images/classes.png)
+
+## Visualização prévia dos diagramas de sequência:
+
+### Visualização prévia do diagrama de sequência Buscar conteúdo:
+
+![Diagrama de caso de uso](https://github.com/luca-moraes/projetoCrawlerModelagem/blob/main/images/seqBuscar.png)
+
+### Visualização prévia do diagrama de sequência Solicitar conteúdo:
+
+![Diagrama de caso de uso](https://github.com/luca-moraes/projetoCrawlerModelagem/blob/main/images/seqSolicitar.png)
