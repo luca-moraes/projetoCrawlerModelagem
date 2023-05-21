@@ -16,4 +16,4 @@ Link para o Github Pages do repositório: [https://luca-moraes.github.io/projeto
 
 ### Visualização prévia do diagrama de casos de uso:
 
-![Diagrama de caso de uso]([https://github.com/luca-moraes/projetoModelagem/blob/main/images/UseCaseDiagram1.png](https://github.com/luca-moraes/projetoCrawlerModelagem/blob/main/images/useCases.png))
+![Diagrama de caso de uso](https://github.com/luca-moraes/projetoCrawlerModelagem/blob/main/images/useCases.png)
