@@ -20,14 +20,55 @@ Link para o Github Pages do repositório: [https://luca-moraes.github.io/projeto
 
 ### Visualização prévia do diagrama de classes:
 
-![Diagrama de caso de uso](https://github.com/luca-moraes/projetoCrawlerModelagem/blob/main/images/classes.png)
+![Diagrama de classe](https://github.com/luca-moraes/projetoCrawlerModelagem/blob/main/images/classes.png)
 
 ## Visualização prévia dos diagramas de sequência:
 
 ### Visualização prévia do diagrama de sequência Buscar conteúdo:
 
-![Diagrama de caso de uso](https://github.com/luca-moraes/projetoCrawlerModelagem/blob/main/images/seqBuscar.png)
+![Diagrama de sequência Buscar conteúdo](https://github.com/luca-moraes/projetoCrawlerModelagem/blob/main/images/seqBuscar.png)
 
 ### Visualização prévia do diagrama de sequência Solicitar conteúdo:
 
-![Diagrama de caso de uso](https://github.com/luca-moraes/projetoCrawlerModelagem/blob/main/images/seqSolicitar.png)
+![Diagrama de sequência Solicitar conteúdo](https://github.com/luca-moraes/projetoCrawlerModelagem/blob/main/images/seqSolicitar.png)
+
+## Visualização prévia dos diagramas de estado:
+
+### Visualização prévia do diagrama de estado Buscador:
+
+![Diagrama de estado Buscador](https://github.com/luca-moraes/projetoCrawlerModelagem/blob/main/images/stateBuscador.png)
+
+### Visualização prévia do diagrama de estado Cache:
+
+![Diagrama de estado Cache](https://github.com/luca-moraes/projetoCrawlerModelagem/blob/main/images/stateCache.png)
+
+### Visualização prévia do diagrama de estado DNS Resolver:
+
+![Diagrama de estado DNS Resolver](https://github.com/luca-moraes/projetoCrawlerModelagem/blob/main/images/stateDns.png)
+
+### Visualização prévia do diagrama de estado Documento Resposta:
+
+![Diagrama de estado Documento Resposta](https://github.com/luca-moraes/projetoCrawlerModelagem/blob/main/images/stateDoc.png)
+
+### Visualização prévia do diagrama de estado Extrato Links:
+
+![Diagrama de estado Extrato Links](https://github.com/luca-moraes/projetoCrawlerModelagem/blob/main/images/stateExtrator.png)
+
+### Visualização prévia do diagrama de estado Fetcher Abstract:
+
+![Diagrama de estado Fetcher Abstract](https://github.com/luca-moraes/projetoCrawlerModelagem/blob/main/images/stateFetcher.png)
+
+### Visualização prévia do diagrama de estado Storage:
+
+![Diagrama de estado Storage](https://github.com/luca-moraes/projetoCrawlerModelagem/blob/main/images/stateStorage.png)
+
+### Visualização prévia do diagrama de estado Usuario:
+
+![Diagrama de estado Usuario](https://github.com/luca-moraes/projetoCrawlerModelagem/blob/main/images/stateUsuario.png)
+
+## Visualização prévia dos diagramas de atividade:
+
+
+### Visualização prévia do diagrama de atividade Buscar:
+
+![Diagrama de atividade Buscar](https://github.com/luca-moraes/projetoCrawlerModelagem/blob/main/images/atividadeBuscar.png)
